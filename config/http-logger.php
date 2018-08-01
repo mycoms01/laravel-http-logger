@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+    'methods'=>['post', 'put', 'patch', 'delete'],
     /*
      * The log profile which determines whether a request should be logged.
      * It should implement `LogProfile`.
