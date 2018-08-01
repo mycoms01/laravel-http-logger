@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-http-logger",
+    "name": "mycoms01/laravel-http-logger",
     "description": "A Laravel 5 package to log HTTP requests",
     "keywords": [
         "spatie",
@@ -9,9 +9,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Brent Roose",
-            "email": "brent@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "",
+            "email": "",
+            "homepage": "",
             "role": "Developer"
         }
     ],
